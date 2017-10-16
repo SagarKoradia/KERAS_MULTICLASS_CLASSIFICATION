@@ -1,0 +1,2 @@
+# KERAS_MULTICLASS_CLASSIFICATION
+Multi-Class classification model implementation on the DUID - ER01 - ERARING POWER STATION - ORIGIN ENERGY - BIDDING DATA
