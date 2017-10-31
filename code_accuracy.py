@@ -18,8 +18,8 @@ numpy.random.seed(seed)
 fn = r'C:\Users\DELL I5558\Desktop\Python\NSW-ER01.csv'
 dataframe = pd.read_csv(fn)
 dataset = dataframe.values
-X = dataset[:, 0:22].astype(float)
-Y = dataset[:, 22]
+X = dataset[:, 0:23].astype(float)
+Y = dataset[:, 23]
 
 # encode class values as integers
 encoder = LabelEncoder()
